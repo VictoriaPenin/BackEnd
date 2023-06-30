@@ -9,7 +9,6 @@ C:\Users\vicky\Desktop\ap junio\portfolio2023\src\main\java\com\example\portfoli
 C:\Users\vicky\Desktop\ap junio\portfolio2023\src\main\java\com\example\portfolio2023\Security\MainSecurity.java
 C:\Users\vicky\Desktop\ap junio\portfolio2023\src\main\java\com\example\portfolio2023\Repository\IPersonaRepository.java
 C:\Users\vicky\Desktop\ap junio\portfolio2023\src\main\java\com\example\portfolio2023\Security\Controller\AuthController.java
-C:\Users\vicky\Desktop\ap junio\portfolio2023\src\main\java\com\example\portfolio2023\WebConfig.java
 C:\Users\vicky\Desktop\ap junio\portfolio2023\src\main\java\com\example\portfolio2023\Entity\Experiencia.java
 C:\Users\vicky\Desktop\ap junio\portfolio2023\src\main\java\com\example\portfolio2023\Controller\CEducacion.java
 C:\Users\vicky\Desktop\ap junio\portfolio2023\src\main\java\com\example\portfolio2023\Security\Dto\JwtDto.java
@@ -21,6 +20,7 @@ C:\Users\vicky\Desktop\ap junio\portfolio2023\src\main\java\com\example\portfoli
 C:\Users\vicky\Desktop\ap junio\portfolio2023\src\main\java\com\example\portfolio2023\Security\Service\UsuarioService.java
 C:\Users\vicky\Desktop\ap junio\portfolio2023\src\main\java\com\example\portfolio2023\Security\Entity\UsuarioPrincipal.java
 C:\Users\vicky\Desktop\ap junio\portfolio2023\src\main\java\com\example\portfolio2023\Security\Entity\Rol.java
+C:\Users\vicky\Desktop\ap junio\portfolio2023\src\main\java\com\example\portfolio2023\CorsConfig.java
 C:\Users\vicky\Desktop\ap junio\portfolio2023\src\main\java\com\example\portfolio2023\Security\Repository\IRolRepository.java
 C:\Users\vicky\Desktop\ap junio\portfolio2023\src\main\java\com\example\portfolio2023\Portfolio2023Application.java
 C:\Users\vicky\Desktop\ap junio\portfolio2023\src\main\java\com\example\portfolio2023\Security\Dto\LoginUsuario.java

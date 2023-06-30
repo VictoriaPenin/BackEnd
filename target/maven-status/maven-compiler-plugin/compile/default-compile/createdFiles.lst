@@ -1,7 +1,6 @@
 com\example\portfolio2023\Dto\dtoExperiencia.class
 com\example\portfolio2023\Security\Service\UsuarioService.class
 com\example\portfolio2023\Service\SEducacion.class
-com\example\portfolio2023\WebConfig.class
 com\example\portfolio2023\Security\jwt\JwtEntryPoint.class
 com\example\portfolio2023\Entity\Hys.class
 com\example\portfolio2023\Security\Entity\UsuarioPrincipal.class
@@ -26,6 +25,7 @@ com\example\portfolio2023\Security\Entity\Usuario.class
 com\example\portfolio2023\Controller\CEducacion.class
 com\example\portfolio2023\Controller\CExperiencia.class
 com\example\portfolio2023\Repository\IPersonaRepository.class
+com\example\portfolio2023\CorsConfig.class
 com\example\portfolio2023\Service\ImpPersonaService.class
 com\example\portfolio2023\Entity\Experiencia.class
 com\example\portfolio2023\Security\Entity\Rol.class
